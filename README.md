@@ -2,9 +2,9 @@
 
 ###  DATE: 
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: RAJASHRI I
+###  ROLL NO : 212224040261
+###  DEPARTMENT: BE/CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
